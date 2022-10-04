@@ -1,0 +1,5 @@
+Variables                           son como cajas donde se deben almacenan y se definen casos
+Strings                             son cadenas de caracteres por regular van entre comillas "hola"
+Funciones (argumentos, return)      es un codigo programado que se puede reutilizar
+Declaraciones if                    es una condicional "si" que tiene cierta condicion junto a else o if else
+Valores booleanos (true, false)     es el equivalente a 0 o 1 activado o desactivado de alguna condicion
