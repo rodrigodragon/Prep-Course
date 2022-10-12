@@ -1,0 +1,2 @@
+for          es un principal bulce
+&&, ||,!     son operadores logicos Y,O, NO
