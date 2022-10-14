@@ -149,7 +149,8 @@ Esto agregó nuestros cambios al historial. Ahora, para guardar el historial, us
   git commit -m 'Agregado nuevo archivo, archivo-ejemplo.js'
 ```
 
-Ahora que guardamos nuestros cambios localmente, vamos a querer compartir esos cambios en Github. Para ello, usaremos "push":
+Ahora que guardamos nuestro
+s cambios localmente, vamos a querer compartir esos cambios en Github. Para ello, usaremos "push":
 
 ```bash
   git push
